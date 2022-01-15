@@ -1,105 +1,9 @@
 #EXTM3U 
-########################################################################
-########################################################################
-########################################################################
-#####################                              #####################
-#####################           YACIN HD           #####################
-#####################                              #####################
-########################################################################
-########################################################################
-########################################################################
+####           BEIN 4K            #####
 
-#EXTINF:-1,YACIN SPORTS MAX HD1
-#http://yazansportpro.xyz:25461/livesport_ios/livesport_android/95
-http://m6.aminouras.xyz:80/live/99625/index.m3u8
-#EXTINF:-1,YACIN SPORTS MAX HD2
-#http://yazansportpro.xyz:25461/livesport_ios/livesport_android/94
-http://m6.aminouras.xyz:80/live/88002/index.m3u8
-#EXTINF:-1,YACIN SPORT PREMIUM 1HD
-#http://yazansportpro.xyz:25461/livesport_ios/livesport_android/13
-http://m4.aminouras.xyz:80/live/61616/index.m3u8
-#EXTINF:-1,YACIN SPORT PREMIUM 2HD
-#http://yazansportpro.xyz:25461/livesport_ios/livesport_android/14
-http://m4.aminouras.xyz:80/live/6161949878/index.m3u8
-#EXTINF:-1,YACIN SPORT PREMIUM 3HD
-#http://yazansportpro.xyz:25461/livesport_ios/livesport_android/15
-http://m4.aminouras.xyz:80/live/61512788878/index.m3u8
-#EXTINF:-1,YACIN SPORTS 1HD
-#http://yazansportpro.xyz:25461/livesport_ios/livesport_android/16
-http://m4.aminouras.xyz:80/live/918454578001/index.m3u8
-#EXTINF:-1,YACIN SPORTS 2HD
-#http://yazansportpro.xyz:25461/livesport_ios/livesport_android/17
-http://m4.aminouras.xyz:80/live/69854211/index.m3u8
-#EXTINF:-1,YACIN SPORTS 3HD
-#http://yazansportpro.xyz:25461/livesport_ios/livesport_android/18
-http://m4.aminouras.xyz:80/live/645587700/index.m3u8
-#EXTINF:-1,YACIN SPORTS 4HD
-#http://yazansportpro.xyz:25461/livesport_ios/livesport_android/19http://m4.aminouras.xyz:80/live/9787488847/index.m3u8
-#EXTINF:-1,YACIN SPORTS 5HD
-#http://yazansportpro.xyz:25461/livesport_ios/livesport_android/20
-http://m4.aminouras.xyz:80/live/610303030/index.m3u8
-#EXTINF:-1,YACIN SPORTS 6HD
-#http://yazansportpro.xyz:25461/livesport_ios/livesport_android/
-http://m4.aminouras.xyz:80/live/1515000000/index.m3u8
-#EXTINF:-1,YACIN SPORTS 7HD
-http://m4.aminouras.xyz:80/live/791001144/index.m3u8
-
-#####################################################
-#####################################################
-###########         YACIN SD             ############
-#####################################################
-#####################################################
-
-
-#EXTINF:-1,YACIN SPORTS MAX 1
-#http://yazansportpro.xyz:25461/livesport_ios/livesport_android/92
-http://m6.aminouras.xyz:80/live/50002/index.m3u8
-#EXTINF:-1,YACIN SPORTS MAX 2
-#http://yazansportpro.xyz:25461/livesport_ios/livesport_android/93
-http://m4.aminouras.xyz:80/live/51514/index.m3u8
-#EXTINF:-1,YACIN SPORT PREMIUM 1SD
-#http://yazansportpro.xyz:25461/livesport_ios/livesport_android/26
-http://m4.aminouras.xyz:80/live/88824/index.m3u8
-#EXTINF:-1,YACIN SPORT PREMIUM 2SD
-http://yazansportpro.xyz:25461/livesport_ios/livesport_android/27
-#http://m4.aminouras.xyz:80/live/794812458/index.m3u8
-#EXTINF:-1,YACIN SPORT PREMIUM 3SD
-#http://yazansportpro.xyz:25461/livesport_ios/livesport_android/28
-http://m4.aminouras.xyz:80/live/179885588/index.m3u8
-#EXTINF:-1,YACIN SPORTS 1SD
-#http://yazansportpro.xyz:25461/livesport_ios/livesport_android/29
-http://m4.aminouras.xyz:80/live/978488877005/index.m3u8
-#EXTINF:-1,YACIN SPORTS 2SD
-#http://yazansportpro.xyz:25461/livesport_ios/livesport_android/30
-http://m4.aminouras.xyz:80/live/10011244/index.m3u8
-#EXTINF:-1,YACIN SPORTS 3SD
-#http://yazansportpro.xyz:25461/livesport_ios/livesport_android/31
-http://m4.aminouras.xyz:80/live/161988840/index.m3u8
-#EXTINF:-1,YACIN SPORTS 4SD
-#http://yazansportpro.xyz:25461/livesport_ios/livesport_android/32
-http://m4.aminouras.xyz:80/live/0103088447/index.m3u8
-#EXTINF:-1,YACIN SPORTS 5SD
-#http://yazansportpro.xyz:25461/livesport_ios/livesport_android/33
-http://m4.aminouras.xyz:80/live/115451004/index.m3u8
-#EXTINF:-1,YACIN SPORTS 6SD
-http://m4.aminouras.xyz:80/live/788550011/index.m3u8
-#EXTINF:-1,YACIN SPORTS 7SD
-http://m4.aminouras.xyz:80/live/100666696/index.m3u8
-
-#####################################################
-#####################################################
-###########           BEIN 4K            ############
-#####################################################
-#####################################################
-
-#EXTINF:-1,BEIN SPORTS MAX 1 4K
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/120810
-#EXTINF:-1,BEIN SPORTS MAX 2 4K
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/120809
-
-#EXTINF:-1,beIN SPORTS 4K
+#EXTINF:-1,beIN SPORTS MAX 1 4K
 http://yassooo.com:8080/Manaf/Manaf123/120006
-#EXTINF:-1,beIN SPORTS 4K 
+#EXTINF:-1,beIN SPORTS MAX 2 4K 
 http://yassooo.com:8080/Manaf/Manaf123/120005
 
 #EXTINF:-1,BEIN SPORTS MAX 1 4K 
@@ -115,13 +19,12 @@ http://s1.urhdiptv.net:8080/Manaf/Manaf123/120810
 #EXTINF:-1,BEIN SPORTS MAX 2 4K 
 http://s1.urhdiptv.net:8080/Manaf/Manaf123/120809
 
+#EXTINF:-1,Bein Sport Max 1 4K
+http://new-pro.tv:8080/4474494445842022/Nadim2022/290286
+#EXTINF:-1,Bein Sport Max 2 4K
+http://new-pro.tv:8080/4474494445842022/Nadim2022/290287
 
-
-#####################################################
-#####################################################
-###########          BEIN FHD            ############
-#####################################################
-#####################################################
+####          BEIN FHD            ####
 
 #EXTINF:-1,BEIN SPORTS MAX 1 FHD
 http://s1.urhdiptv.net:8080/Manaf/Manaf123/120808
@@ -132,12 +35,12 @@ http://s1.urhdiptv.net:8080/Manaf/Manaf123/120674
 #EXTINF:-1,BEIN SPORTS MAX 2 FHD
 http://s1.urhdiptv.net:8080/Manaf/Manaf123/120675
 
+#EXTINF:-1,Bein Sport Max 1 FHD
+http://new-pro.tv:8080/4474494445842022/Nadim2022/290288
+#EXTINF:-1,Bein Sport Max 2 FHD
+http://new-pro.tv:8080/4474494445842022/Nadim2022/290289
 
-#####################################################
-#####################################################
-###########          BEIN HD             ############
-#####################################################
-#####################################################
+####          BEIN HD             ####
 
 #EXTINF:-1,beIN SPORTS MAX HD1
 http://yassooo.com:8080/Manaf/Manaf123/120012
@@ -157,14 +60,21 @@ http://s1.urhdiptv.net:8080/Manaf/Manaf123/120806
 #EXTINF:-1,BEIN SPORTS MAX HD2
 http://s1.urhdiptv.net:8080/Manaf/Manaf123/120805
 
+#EXTINF:-1,beIN SPORTS MAX HD1 
+http://195.230.23.8:25461/goldstv.com/zVSBfEVhKE/7841
+#EXTINF:-1,beIN SPORTS MAX HD2 
+http://195.230.23.8:25461/goldstv.com/zVSBfEVhKE/7842
+#EXTINF:-1,BEIN SPORTS Max HD1
+http://195.230.23.8:25461/goldstv.com/zVSBfEVhKE/7824
+#EXTINF:-1,BEIN SPORTS Max HD2
+http://195.230.23.8:25461/goldstv.com/zVSBfEVhKE/7825
 
+#EXTINF:-1,Bein Sport Max 1 HD
+http://new-pro.tv:8080/4474494445842022/Nadim2022/290290
+#EXTINF:-1,Bein Sport Max 2 HD
+http://new-pro.tv:8080/4474494445842022/Nadim2022/290291
 
-
-#####################################################
-#####################################################
-###########          BEIN SD             ############
-#####################################################
-#####################################################
+####          BEIN SD             ####
 
 #EXTINF:-1,beIN SPORTS MAX 1 
 http://yassooo.com:8080/Manaf/Manaf123/120000
@@ -184,106 +94,155 @@ http://s1.urhdiptv.net:8080/Manaf/Manaf123/120804
 #EXTINF:-1,BEIN SPORTS MAX 2 
 http://s1.urhdiptv.net:8080/Manaf/Manaf123/120803
 
-#####################################################
-#####################################################
-###########         BEIN Prem            ############
-#####################################################
-#####################################################
-#EXTINF:-1,beIN Sports Premium 01 4K 
-http://yassooo.com:8080/Manaf/Manaf123/80089
-#EXTINF:-1,beIN Sports Premium 02 4K 
-http://yassooo.com:8080/Manaf/Manaf123/80088
-#EXTINF:-1,beIN Sports Premium 03 4K 
-http://yassooo.com:8080/Manaf/Manaf123/80087
 
-#EXTINF:-1,beIN Sports Premium 01 FHD 
-http://yassooo.com:8080/Manaf/Manaf123/80139
-#EXTINF:-1,beIN Sports Premium 02 FHD 
-http://yassooo.com:8080/Manaf/Manaf123/80138
-#EXTINF:-1,beIN Sports Premium 03 FHD 
-http://yassooo.com:8080/Manaf/Manaf123/80137
 
-#EXTINF:-1,beIN Sports Premium 01 FHD
-http://yassooo.com:8080/Manaf/Manaf123/80020
-#EXTINF:-1,beIN Sports Premium 02 FHD
-http://yassooo.com:8080/Manaf/Manaf123/80019
-#EXTINF:-1,beIN Sports Premium 03 FHD
-http://yassooo.com:8080/Manaf/Manaf123/80018
+#EXTINF:-1,beIN SPORTS MAX 1 
+http://yassooo.com:8080/Manaf/Manaf123/120000
+#EXTINF:-1,beIN SPORTS MAX 2 
+http://yassooo.com:8080/Manaf/Manaf123/119999
 
-#EXTINF:-1,beIN Sports Premium 01 HD 
-http://yassooo.com:8080/Manaf/Manaf123/80106
-#EXTINF:-1,beIN Sports Premium 02 HD 
-http://yassooo.com:8080/Manaf/Manaf123/80105
-#EXTINF:-1,beIN Sports Premium 03 HD 
-http://yassooo.com:8080/Manaf/Manaf123/80104
-
-#EXTINF:-1,beIN Sports Premium 1 HEVC
-http://yassooo.com:8080/Manaf/Manaf123/80061
-#EXTINF:-1,beIN Sports Premium 2 HEVC
-http://yassooo.com:8080/Manaf/Manaf123/80060
-#EXTINF:-1,beIN Sports Premium 3 HEVC
-http://yassooo.com:8080/Manaf/Manaf123/80059
-
-#####################################################
-#####################################################
-###########         BEIN ALL             ############
-#####################################################
-#####################################################
-
-# #EXTINF:-1,beIN Sports Max 1 HD
-# http://174.138.184.166:25461/livesport_ios/livesport_android/95
-# #EXTINF:-1,beIN Sports Max 2 HD
-# http://174.138.184.166:25461/livesport_ios/livesport_android/94
-# #EXTINF:-1,beIN Sports 1 Premium 
-# http://174.138.184.166:25461/livesport_ios/livesport_android/13
-# #EXTINF:-1,beIN Sports 2 Premium 
-# http://174.138.184.166:25461/livesport_ios/livesport_android/14
-# #EXTINF:-1,beIN Sports 3 Premium 
-# http://174.138.184.166:25461/livesport_ios/livesport_android/15
-# #EXTINF:-1,beIN Sports 1 HD
-# http://174.138.184.166:25461/livesport_ios/livesport_android/16
-# #EXTINF:-1,beIN Sports 2 HD
-# http://174.138.184.166:25461/livesport_ios/livesport_android/17
-# #EXTINF:-1,beIN Sports 3 HD
-# http://174.138.184.166:25461/livesport_ios/livesport_android/18
-# #EXTINF:-1,beIN Sports 4 HD
-# http://174.138.184.166:25461/livesport_ios/livesport_android/19
-# #EXTINF:-1,beIN Sports 5 HD
-# http://174.138.184.166:25461/livesport_ios/livesport_android/20
-# #EXTINF:-1,beIN Sports Max 1 SD
-# http://174.138.184.166:25461/livesport_ios/livesport_android/92
-# #EXTINF:-1,beIN Sports Max 2 SD
-# http://174.138.184.166:25461/livesport_ios/livesport_android/93
-# #EXTINF:-1,beIN Sports 1 Premium
-# http://174.138.184.166:25461/livesport_ios/livesport_android/26
-# #EXTINF:-1,beIN Sports 2 Premium
-# http://174.138.184.166:25461/livesport_ios/livesport_android/27
-# #EXTINF:-1,beIN Sports 3 Premium
-# http://174.138.184.166:25461/livesport_ios/livesport_android/28
-# #EXTINF:-1,beIN Sports 1 SD
-# http://174.138.184.166:25461/livesport_ios/livesport_android/29
-# #EXTINF:-1,beIN Sports 2 SD
-# http://174.138.184.166:25461/livesport_ios/livesport_android/30
-# #EXTINF:-1,beIN Sports 3 SD
-# http://174.138.184.166:25461/livesport_ios/livesport_android/31
-# #EXTINF:-1,beIN Sports 4 SD
-# http://174.138.184.166:25461/livesport_ios/livesport_android/32
-# #EXTINF:-1,beIN Sports 5 SD
-# http://174.138.184.166:25461/livesport_ios/livesport_android/33
-# #EXTINF:-1,beIN Sport XTRA 1 HD
-# http://174.138.184.166:25461/livesport_ios/livesport_android/56
-# #EXTINF:-1,beIN Sport XTRA 2 HD
-# http://174.138.184.166:25461/livesport_ios/livesport_android/57
+#EXTINF:-1,BEIN SPORTS MAX 1 
+http://s1.urhdiptv.net:8080/Manaf/Manaf123/120000
+#EXTINF:-1,BEIN SPORTS MAX 2 
+http://s1.urhdiptv.net:8080/Manaf/Manaf123/119999
+#EXTINF:-1,BEIN SPORTS MAX 1 
+http://s1.urhdiptv.net:8080/Manaf/Manaf123/120678
+#EXTINF:-1,BEIN SPORTS MAX 2 
+http://s1.urhdiptv.net:8080/Manaf/Manaf123/120679
+#EXTINF:-1,BEIN SPORTS MAX 1 
+http://s1.urhdiptv.net:8080/Manaf/Manaf123/120804
+#EXTINF:-1,BEIN SPORTS MAX 2 
+http://s1.urhdiptv.net:8080/Manaf/Manaf123/120803
 
 
 
+####            KIMO HD             ####
+
+#EXTINF:-1, KIMO SPORTS MAX HD1
+http://yazansportpro.xyz:25461/livesport_ios/livesport_android/95
+#EXTINF:-1, KIMO SPORTS MAX HD2
+http://yazansportpro.xyz:25461/livesport_ios/livesport_android/94
 
 
-#####################################################
-#####################################################
-###########             OSN              ############
-#####################################################
-#####################################################
+#EXTINF:-1, KIMO SPORTS MAX HD1
+http://n3.anfalrou.xyz:80/live/9962564400/index.m3u8
+#EXTINF:-1, KIMO SPORTS MAX HD2
+http://n3.anfalrou.xyz:80/live/88002555210/index.m3u8
+#EXTINF:-1,KIMO SPORTS 1 Premium 
+http://174.138.184.166:25461/livesport_ios/livesport_android/13
+#EXTINF:-1,KIMO SPORT PREMIUM 2HD
+http://l3.amaniyouhra.xyz:80/live/6161949878/index.m3u8
+#EXTINF:-1,KIMO SPORT PREMIUM 3HD
+http://l3.amaniyouhra.xyz:80/live/61512788878/index.m3u8
+#EXTINF:-1,KIMO SPORTS 1HD
+http://l3.amaniyouhra.xyz:80/live/918454578001/index.m3u8
+#EXTINF:-1,KIMO SPORTS 2HD
+http://l3.amaniyouhra.xyz:80/live/69854211/index.m3u8
+#EXTINF:-1,KIMO SPORTS 3HD
+http://l3.amaniyouhra.xyz:80/live/645587700/index.m3u8
+#EXTINF:-1,beIN Sports 4 HD
+http://174.138.184.166:25461/livesport_ios/livesport_android/19
+#EXTINF:-1,KIMO SPORTS 5HD
+http://l3.amaniyouhra.xyz:80/live/610303030/index.m3u8
+#EXTINF:-1,KIMO SPORTS 6HD
+http://l3.amaniyouhra.xyz:80/live/1515000000/index.m3u8
+#EXTINF:-1,KIMO SPORTS 7HD
+http://l3.amaniyouhra.xyz:80/live/791001144/index.m3u8
+ 
+####            KIMO SD             ####
+
+#EXTINF:-1,KIMO SPORTS MAX 1
+http://yazansportpro.xyz:25461/livesport_ios/livesport_android/92
+#EXTINF:-1,KIMO SPORTS MAX 2
+http://yazansportpro.xyz:25461/livesport_ios/livesport_android/93
+
+#EXTINF:-1,KIMO SPORTS MAX 1
+http://n3.anfalrou.xyz:80/live/500025550/index.m3u8
+#EXTINF:-1,KIMO SPORTS MAX 2
+http://n3.anfalrou.xyz:80/live/515140033710/index.m3u8
+
+#EXTINF:-1,KIMO SPORTS MAX 1
+http://yazansportpro.xyz:25461/livesport_ios/livesport_android/92
+#EXTINF:-1,KIMO SPORTS MAX 2
+http://yazansportpro.xyz:25461/livesport_ios/livesport_android/93
+
+#EXTINF:-1,KIMO SPORTS MAX 1
+http://l21.amaniyouhra.xyz:80/live/50002/index.m3u8
+#EXTINF:-1,KIMO SPORTS MAX 2
+http://l3.amaniyouhra.xyz:80/live/51514/index.m3u8
+#EXTINF:-1,KIMO SPORTS 1 Premium 
+http://174.138.184.166:25461/livesport_ios/livesport_android/13
+#EXTINF:-1,KIMO SPORT PREMIUM 2SD
+http://l3.amaniyouhra.xyz:80/live/794812458/index.m3u8
+#EXTINF:-1,KIMO SPORT PREMIUM 3SD
+http://l3.amaniyouhra.xyz:80/live/179885588/index.m3u8
+#EXTINF:-1,KIMO SPORTS 1SD
+http://l3.amaniyouhra.xyz:80/live/978488877005/index.m3u8
+#EXTINF:-1,KIMO SPORTS 2SD
+http://l3.amaniyouhra.xyz:80/live/10011244/index.m3u8
+#EXTINF:-1,KIMO SPORTS 3SD
+http://l3.amaniyouhra.xyz:80/live/161988840/index.m3u8
+#EXTINF:-1,beIN Sports 4 HD
+http://174.138.184.166:25461/livesport_ios/livesport_android/19
+#EXTINF:-1,KIMO SPORTS 5SD
+http://l3.amaniyouhra.xyz:80/live/115451004/index.m3u8
+#EXTINF:-1,KIMO SPORTS 6SD
+http://l3.amaniyouhra.xyz:80/live/788550011/index.m3u8
+#EXTINF:-1,KIMO SPORTS 7SD
+http://l3.amaniyouhra.xyz:80/live/100666696/index.m3u8
+
+####         BEIN FULL             ####
+
+#EXTINF:-1,beIN Sports 1 Premium 
+http://174.138.184.166:25461/livesport_ios/livesport_android/13
+#EXTINF:-1,beIN Sports 2 Premium 
+http://174.138.184.166:25461/livesport_ios/livesport_android/14
+#EXTINF:-1,beIN Sports 3 Premium 
+http://174.138.184.166:25461/livesport_ios/livesport_android/15
+#EXTINF:-1,beIN Sports 1 HD
+http://174.138.184.166:25461/livesport_ios/livesport_android/16
+#EXTINF:-1,beIN Sports 2 HD
+http://174.138.184.166:25461/livesport_ios/livesport_android/17
+#EXTINF:-1,beIN Sports 3 HD
+http://174.138.184.166:25461/livesport_ios/livesport_android/18
+#EXTINF:-1,beIN Sports 4 HD
+http://174.138.184.166:25461/livesport_ios/livesport_android/19
+#EXTINF:-1,beIN Sports 5 HD
+http://174.138.184.166:25461/livesport_ios/livesport_android/20
+#EXTINF:-1,beIN Sports 1 Premium
+http://174.138.184.166:25461/livesport_ios/livesport_android/26
+#EXTINF:-1,beIN Sports 2 Premium
+http://174.138.184.166:25461/livesport_ios/livesport_android/27
+#EXTINF:-1,beIN Sports 3 Premium
+http://174.138.184.166:25461/livesport_ios/livesport_android/28
+#EXTINF:-1,beIN Sports 1 SD
+http://174.138.184.166:25461/livesport_ios/livesport_android/29
+#EXTINF:-1,beIN Sports 2 SD
+http://174.138.184.166:25461/livesport_ios/livesport_android/30
+#EXTINF:-1,beIN Sports 3 SD
+http://174.138.184.166:25461/livesport_ios/livesport_android/31
+#EXTINF:-1,beIN Sports 4 SD
+http://174.138.184.166:25461/livesport_ios/livesport_android/32
+#EXTINF:-1,beIN Sports 5 SD
+http://174.138.184.166:25461/livesport_ios/livesport_android/33
+#EXTINF:-1,beIN Sport XTRA 1 HD
+http://174.138.184.166:25461/livesport_ios/livesport_android/56
+#EXTINF:-1,beIN Sport XTRA 2 HD
+http://174.138.184.166:25461/livesport_ios/livesport_android/57
+
+####            SSC SPORTS         ####
+
+#EXTINF:-1,SSC5 HD
+http://yassooo.com:8080/Manaf/Manaf123/98913
+#EXTINF:-1,SSC5
+http://geo-stream.xyz:8880/live/54393917/67737458/466086.ts
+#EXTINF:-1,SSC5
+http://geo-stream.xyz:8880/live/54393917/67737458/466093.ts
+
+####             USA         ####
+#EXTINF:-1 tvg-id="GloryKickboxing.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/AQbc1ER.jpg" group-title="Sports",Glory Kickboxing (432p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxglorykickboxing/CDN/playlist.m3u8
+#####            OSN          ####
 
 #EXTINF:-1,OSN Yahala
 http://yassooo.com:8080/Manaf/Manaf123/80233
@@ -367,11 +326,59 @@ http://yassooo.com:8080/Manaf/Manaf123/80193
 http://yassooo.com:8080/Manaf/Manaf123/80192
 #EXTINF:-1,OSN Nick Jr
 http://yassooo.com:8080/Manaf/Manaf123/80191
-#EXTINF:-1,OSN Nick Toon
+#EXTINF:-1,TVE 1
 http://yassooo.com:8080/Manaf/Manaf123/80190
 #EXTINF:-1,OSN Kids Zone
 http://yassooo.com:8080/Manaf/Manaf123/80189
 
+####               MAROC TV             ####
+
+#EXTINF:-1 tvg-id="2MMonde.ma" tvg-country="MA" tvg-language="Arabic;French" tvg-logo="https://i.imgur.com/CwwRn4b.png" group-title="General",2M Monde (360p) [Geo-blocked]
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde.m3u8
+#EXTINF:-1 tvg-id="AlAoula.ma" tvg-country="MA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/ZFHjIVU.png" group-title="General",Al Aoula (360p) [Geo-blocked]
+http://cdn-hls.globecast.tv/live/ramdisk/al_aoula_inter/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-id="AlAoula.ma" tvg-country="MA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/ZFHjIVU.png" group-title="General",Al Aoula (360p) [Geo-blocked]
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-id="AlAoulaLaayoune.ma" tvg-country="MA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/ZFHjIVU.png" group-title="General",Al Aoula Laayoune (360p) [Geo-blocked]
+http://cdn-hls.globecast.tv/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-id="AlAoulaLaayoune.ma" tvg-country="MA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/ZFHjIVU.png" group-title="General",Al Aoula Laayoune (360p) [Geo-blocked]
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-id="AlMaghribia.ma" tvg-country="MA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/ZlmQSBl.png" group-title="General",Al Maghribia (360p) [Geo-blocked]
+http://cdn-hls.globecast.tv/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-id="AlMaghribia.ma" tvg-country="MA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/ZlmQSBl.png" group-title="General",Al Maghribia (360p) [Geo-blocked]
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-id="Arrabiaa.ma" tvg-country="MA" tvg-language="Arabic;French" tvg-logo="https://i.imgur.com/FvgdLdG.png" group-title="General",Arrabiaa (360p) [Geo-blocked]
+http://cdn-hls.globecast.tv/live/ramdisk/arrabiaa/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-id="Arrabiaa.ma" tvg-country="MA" tvg-language="Arabic;French" tvg-logo="https://i.imgur.com/FvgdLdG.png" group-title="General",Arrabiaa (360p) [Geo-blocked]
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-id="Arryadia.ma" tvg-country="MA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/liFebM9.png" group-title="Sports",Arryadia (360p) [Geo-blocked]
+http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-id="Arryadia.ma" tvg-country="MA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/liFebM9.png" group-title="Sports",Arryadia (360p) [Geo-blocked]
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-id="Assadissa.ma" tvg-country="MA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/VQUrMjE.png" group-title="General",Assadissa (360p) [Geo-blocked]
+http://cdn-hls.globecast.tv/live/ramdisk/assadissa/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-id="Assadissa.ma" tvg-country="MA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/VQUrMjE.png" group-title="General",Assadissa (360p) [Geo-blocked]
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-id="M24TV.ma" tvg-country="MA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/J7GdM3L.png" group-title="News",M24 TV (720p) [Not 24/7]
+http://79.137.106.241/live/smil:OutStream1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="M24TV.ma" tvg-country="MA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/J7GdM3L.png" group-title="News",M24 TV (720p) [Not 24/7]
+https://www.m24tv.ma/live/smil:OutStream1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="MaghrebArabePress.ma" tvg-country="MA" tvg-language="Arabic" tvg-logo="" group-title="",Maghreb Arabe Press (720p) [Not 24/7]
+https://www.maptvnews.ma/live/smil:OutStream1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Medi1TVAfrique.ma" tvg-country="MA" tvg-language="French" tvg-logo="https://i.imgur.com/MosTwQW.png" group-title="News",Medi 1 TV Afrique (1080p) [Not 24/7]
+https://5f72f3a9b06b7.streamlock.net/live/smil:medi1fr.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Medi1TVArabic.ma" tvg-country="MA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/MosTwQW.png" group-title="News",Medi 1 TV Arabic (1080p) [Not 24/7]
+https://5f72f3a9b06b7.streamlock.net/live/smil:medi1ar.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Medi1TVMaghreb.ma" tvg-country="MA" tvg-language="French;Arabic" tvg-logo="https://i.imgur.com/MosTwQW.png" group-title="News",Medi 1 TV Maghreb (1080p) [Not 24/7]
+https://5f72f3a9b06b7.streamlock.net/live/smil:medi1tv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Tamazight.ma" tvg-country="MA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/uC6IF9P.png" group-title="General",Tamazight (360p) [Geo-blocked]
+http://cdn-hls.globecast.tv/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-id="Tamazight.ma" tvg-country="MA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/uC6IF9P.png" group-title="General",Tamazight (360p) [Geo-blocked]
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-id="TeleMaroc.ma" tvg-country="MA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/7sibv0t.png" group-title="General",Télé Maroc (1080p)
+https://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8
+
+####           MBC GROUPE          ####
 
 #EXTINF:-1,MBC1 HD
 http://yassooo.com:8080/Manaf/Manaf123/80275
@@ -417,12 +424,9 @@ http://yassooo.com:8080/Manaf/Manaf123/80256
 http://yassooo.com:8080/Manaf/Manaf123/80255
 #EXTINF:-1,MBC Drama SD
 http://yassooo.com:8080/Manaf/Manaf123/80254
-
-#####################################################
-#####################################################
-###########           NETFLIX            ############
-#####################################################
-#####################################################
+#EXTINF:-1 tvg-id="Ajyal TV ARB" tvg-name="Ajyal TV ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/j1Xmygq.jpg" group-title="",Ajyal TV
+http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
+####             NETFLIX            #####
 
 #EXTINF:-1,Netflix Action
 http://yassooo.com:8080/Manaf/Manaf123/79885
@@ -442,19 +446,4 @@ http://yassooo.com:8080/Manaf/Manaf123/79879
 http://yassooo.com:8080/Manaf/Manaf123/79878
 #EXTINF:-1,Netflix Sci-Fi
 http://yassooo.com:8080/Manaf/Manaf123/79877
-#####################################################
-#####################################################
-###########         SSC Sport            ############
-#####################################################
-#####################################################
-#EXTINF:-1,SSC5 HD
-http://yassooo.com:8080/Manaf/Manaf123/98913
-#EXTINF:-1,SSC5 HD
-http://s1.urhdiptv.net:8080/Manaf/Manaf123/98913
-#EXTINF:-1,SSC5 HD
-http://opplex.tv:8080/dawood/dawood/218722
-#EXTINF:-1,SSC5 HD
-http://s2.famousiptv.com:8080/sultan/sultan123/80042
-#EXTINF:-1,SSC5 HD
-http://mytv.fun:8080/8o7ayyktcn/17ilrf7g7e/691278
 
